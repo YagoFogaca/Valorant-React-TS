@@ -9,6 +9,7 @@ export const GlobalStyle = createGlobalStyle`
 
 html, body, #root {
     display: flex;
+    flex-direction: column;
     width: 100%;
     height: 100%;
     background-color: #3d3c3c;
